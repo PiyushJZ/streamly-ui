@@ -1,0 +1,6 @@
+dist/
+node_modules/
+.cursorrules
+.prittierignore
+eslint.config.js
+README.md
